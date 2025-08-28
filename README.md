@@ -1,2 +1,2 @@
 # first_repo
-learning github!!
+Learning Github!!
